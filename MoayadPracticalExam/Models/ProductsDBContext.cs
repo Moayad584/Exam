@@ -3,10 +3,10 @@ using MoayadPracticalExam.Models.Entities;
 
 namespace MoayadPracticalExam.Models
 {
-    public class ProductDBController : DbContext
-
+    public class ProductsDBContext : DbContext
     {
-        public ProductDBController( DbContextOptions options) : base(options)
+
+        public ProductsDBContext(DbContextOptions options) : base(options)
         {
         }
 
@@ -19,7 +19,5 @@ namespace MoayadPracticalExam.Models
         public DbSet<CartItem> CartItems { get; set; }
 
         public DbSet<Products> Products { get; set; }
-
-
     }
 }
