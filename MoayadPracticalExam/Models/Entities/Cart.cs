@@ -7,7 +7,7 @@ namespace MoayadPracticalExam.Models.Entities
         [Key]
         public int Id { get; set; }
 
-         [param: PrimaryKey]
+         [Required]
         public int TotalPrice { get; set; }
     }
 }
