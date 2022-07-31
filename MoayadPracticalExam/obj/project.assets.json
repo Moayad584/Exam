@@ -5937,11 +5937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\train11\\Desktop\\Ex\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
+      "projectUniqueName": "C:\\Users\\train11\\Desktop\\Moayad Exam\\MoayadAPI\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
       "projectName": "MoayadPracticalExam",
-      "projectPath": "C:\\Users\\train11\\Desktop\\Ex\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
+      "projectPath": "C:\\Users\\train11\\Desktop\\Moayad Exam\\MoayadAPI\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
       "packagesPath": "C:\\Users\\train11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\train11\\Desktop\\Ex\\MoayadPracticalExam\\obj\\",
+      "outputPath": "C:\\Users\\train11\\Desktop\\Moayad Exam\\MoayadAPI\\MoayadPracticalExam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

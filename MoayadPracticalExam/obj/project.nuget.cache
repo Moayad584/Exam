@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zD9Y2Yc+Mfc0p1Keelg+qRZybjOFFJMvEPKp18mzNhKBf+bHZV4QUhgknRWOCdBwe3GmfQS8Nad5B/55cQAceQ==",
+  "dgSpecHash": "RtT/tTZvUl95KmPPuhFmyYWF3Yx/nBUHDLffuu40cCA+toD9Rq6CfVE02msH9thWjHnXIz9XHQSsl2lbLxdWuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\train11\\Desktop\\Ex\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
+  "projectFilePath": "C:\\Users\\train11\\Desktop\\Moayad Exam\\MoayadAPI\\MoayadPracticalExam\\MoayadPracticalExam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\train11\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\train11\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
