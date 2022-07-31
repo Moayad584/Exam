@@ -7,6 +7,7 @@ namespace MoayadPracticalExam.Models.Entities
     public class ApplicationUsers
     {
         [Key]
+        
         public int Id { get; set; }
 
         [MaxLength(50)]
@@ -21,8 +22,8 @@ namespace MoayadPracticalExam.Models.Entities
         public int Type { get; set; }
 
 
+        public ProductsCategories ProductsCategories { get; set; }
 
-        
 
     }
 }

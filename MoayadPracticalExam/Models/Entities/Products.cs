@@ -30,6 +30,7 @@ namespace MoayadPracticalExam.Models.Entities
 
         public float DiscountPercentage { get; set; }
 
+        public ProductsCategories ProductsCategories { get; set; }
 
     }
 }

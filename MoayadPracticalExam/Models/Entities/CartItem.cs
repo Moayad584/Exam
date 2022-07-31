@@ -27,5 +27,7 @@ namespace MoayadPracticalExam.Models.Entities
         [Required]
         public int TotalPrice { get; set; }
 
+        public ProductsCategories ProductsCategories { get; set; }
+
     }
 }
